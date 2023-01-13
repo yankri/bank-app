@@ -1,4 +1,4 @@
-# till-project
+# pseudo bank app
 
 VueJs application based on criteria received via Dropbox folder.
 
